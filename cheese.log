@@ -1,0 +1,583 @@
+[2017-12-07T17:06:38.244] [ERROR] cheese - Cheese is too ripe!
+[2017-12-07T17:06:38.246] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-07T17:06:40.843] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-07T17:13:23.454] [ERROR] cheese - Cheese is too ripe!
+[2017-12-07T17:13:23.457] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-07T17:13:26.055] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-07T17:22:19.120] [ERROR] cheese - Cheese is too ripe!
+[2017-12-07T17:22:19.122] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-07T17:22:21.721] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-07T17:27:18.193] [ERROR] cheese - Cheese is too ripe!
+[2017-12-07T17:27:18.196] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-07T17:27:20.787] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-07T17:29:47.483] [ERROR] cheese - Cheese is too ripe!
+[2017-12-07T17:29:47.485] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-07T17:29:50.076] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-07T17:35:12.544] [ERROR] cheese - Cheese is too ripe!
+[2017-12-07T17:35:12.547] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-07T17:35:15.139] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-07T17:36:43.141] [ERROR] cheese - Cheese is too ripe!
+[2017-12-07T17:36:43.144] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-07T17:36:45.735] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-07T17:42:33.347] [ERROR] cheese - Cheese is too ripe!
+[2017-12-07T17:42:33.350] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-07T17:42:35.934] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-07T17:46:20.461] [ERROR] cheese - Cheese is too ripe!
+[2017-12-07T17:46:20.463] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-07T17:46:23.054] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-08T09:36:14.882] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T09:36:14.885] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T09:36:17.484] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-08T09:36:52.886] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T09:36:52.888] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T09:36:55.482] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-08T09:37:06.821] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T09:37:06.824] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T09:44:16.711] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T09:44:16.713] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T09:44:17.777] [ERROR] cheese - connect to undefined error:  failed to connect to server [localhost:3307] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:3307]
+[2017-12-08T10:00:24.062] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T10:00:24.064] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T10:01:32.557] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T10:01:32.559] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T10:02:13.342] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T10:02:13.344] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T10:03:00.389] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T10:03:00.391] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T10:03:48.793] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T10:03:48.795] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T11:44:39.592] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T11:44:39.592] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T11:45:20.628] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T11:45:20.630] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T11:59:35.635] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T11:59:35.637] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T11:59:38.232] [ERROR] cheese - connect to undefined error:  failed to connect to server [undefined:27017] on first connect [MongoError: getaddrinfo ENOTFOUND undefined undefined:27017]
+[2017-12-08T12:00:00.161] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T12:00:00.163] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T12:00:20.326] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T12:00:20.328] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T12:08:31.807] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T12:08:31.809] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T12:26:14.619] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T12:26:14.622] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T12:26:37.354] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T12:26:37.356] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T12:28:41.322] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T12:28:41.325] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T12:29:25.927] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T12:29:25.930] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T13:54:28.860] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T13:54:28.862] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T13:56:00.065] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T13:56:00.067] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:05:37.467] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:05:37.469] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:21:26.056] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:21:26.059] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:22:59.098] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:22:59.100] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:34:11.272] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:34:11.274] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:34:35.553] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:34:35.555] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:35:17.286] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:35:17.289] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:35:34.285] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:35:34.287] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:37:40.485] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:37:40.487] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:53:58.363] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:53:58.366] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:55:09.103] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:55:09.105] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-08T14:57:15.237] [ERROR] cheese - Cheese is too ripe!
+[2017-12-08T14:57:15.240] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T12:01:54.582] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T12:01:54.587] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T12:13:40.186] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T12:13:40.188] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T12:17:24.270] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T12:17:24.272] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T14:26:15.211] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T14:26:15.213] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T14:40:57.702] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T14:40:57.704] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T14:42:54.023] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T14:42:54.025] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T14:43:10.929] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T14:43:10.931] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T14:46:19.132] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T14:46:19.134] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:05:31.546] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:05:31.547] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:06:26.916] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:06:26.918] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:07:55.466] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:07:55.468] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:09.212] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:09.214] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:19.968] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:19.970] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:24.610] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:24.613] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:29.544] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:29.546] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:31.053] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:31.055] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:33.251] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:33.253] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:35.348] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:35.350] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:37.528] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:37.530] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:39.009] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:39.011] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:40.993] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:40.995] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:42.929] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:42.931] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:08:44.760] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:08:44.762] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:02.822] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:02.824] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:07.046] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:07.048] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:10.093] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:10.095] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:12.875] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:12.877] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:15.404] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:15.406] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:17.926] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:17.928] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:20.579] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:20.581] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:23.129] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:23.131] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:25.600] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:25.602] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:28.125] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:28.128] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:30.619] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:30.621] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:32.746] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:32.748] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:09:34.990] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:09:34.992] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:10:05.049] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:10:05.051] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:10:11.563] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:10:11.565] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:10:17.878] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:10:17.880] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:10:21.486] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:10:21.488] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:11:53.522] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:11:53.524] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:12:15.818] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:12:15.820] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:16:20.065] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:16:20.067] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:16:43.531] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:16:43.534] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:22:54.195] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:22:54.197] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:23:03.550] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:23:03.552] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:23:06.415] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:23:06.417] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:23:08.342] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:23:08.344] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:23:11.250] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:23:11.251] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:23:17.230] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:23:17.232] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:53:40.371] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:53:40.373] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:58:12.107] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:58:12.110] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T15:59:55.337] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T15:59:55.340] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:00:34.123] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:00:34.126] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:01:24.922] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:01:24.925] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:02:00.746] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:02:00.749] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:02:48.705] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:02:48.707] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:04:46.079] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:04:46.082] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:11:28.351] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:11:28.354] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:11:56.295] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:11:56.298] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:13:04.778] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:13:04.780] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:13:58.415] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:13:58.418] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:14:14.176] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:14:14.179] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:15:32.853] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:15:32.856] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:18:25.083] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:18:25.085] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:25:00.011] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:25:00.013] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:26:12.492] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:26:12.495] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:26:53.005] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:26:53.007] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:28:57.341] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:28:57.343] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:32:16.467] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:32:16.470] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:34:49.125] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:34:49.128] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:36:27.160] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:36:27.162] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:38:30.161] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:38:30.164] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:44:14.231] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:44:14.232] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:44:56.858] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:44:56.861] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:46:13.977] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:46:13.979] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:49:24.578] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:49:24.581] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:50:33.605] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:50:33.607] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T16:57:52.716] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T16:57:52.719] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T18:20:13.456] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T18:20:13.457] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T18:20:43.924] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T18:20:43.926] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T18:20:54.878] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T18:20:54.880] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T18:21:02.618] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T18:21:02.620] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-12T18:21:26.521] [ERROR] cheese - Cheese is too ripe!
+[2017-12-12T18:21:26.523] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:41:48.744] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:41:48.746] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:42:01.356] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:42:01.358] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:43:27.523] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:43:27.525] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:46:09.285] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:46:09.287] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:49:45.394] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:49:45.396] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:50:18.710] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:50:18.712] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:51:59.729] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:51:59.731] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:52:29.353] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:52:29.355] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:53:12.246] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:53:12.249] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T09:57:05.072] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T09:57:05.074] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:00:06.221] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:00:06.223] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:00:24.962] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:00:24.964] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:02:05.086] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:02:05.089] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:02:57.439] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:02:57.442] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:03:13.330] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:03:13.333] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:04:02.921] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:04:02.923] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:04:33.065] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:04:33.067] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:07:02.306] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:07:02.309] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:07:22.876] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:07:22.878] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:07:54.756] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:07:54.758] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:08:16.738] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:08:16.741] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:08:32.102] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:08:32.104] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:08:43.412] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:08:43.414] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:08:51.331] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:08:51.334] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:10:55.264] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:10:55.267] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:12:10.450] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:12:10.452] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:13:11.665] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:13:11.667] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:14:12.779] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:14:12.783] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:16:05.591] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:16:05.593] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:39:30.213] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:39:30.215] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:40:53.695] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:40:53.698] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:41:09.674] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:41:09.676] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:41:21.312] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:41:21.314] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T10:41:48.665] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T10:41:48.667] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T11:19:58.637] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T11:19:58.639] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T11:22:16.174] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T11:22:16.176] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T11:23:02.601] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T11:23:02.603] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T11:26:04.798] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T11:26:04.801] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T11:36:21.483] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T11:36:21.485] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T11:39:23.185] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T11:39:23.187] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T12:25:03.378] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T12:25:03.380] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T13:43:27.496] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T13:43:27.498] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T13:44:26.002] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T13:44:26.003] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T13:59:34.173] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T13:59:34.175] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:05:32.676] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:05:32.678] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:06:42.838] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:06:42.840] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:10:39.515] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:10:39.517] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:27:09.304] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:27:09.306] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:31:11.469] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:31:11.471] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:34:03.336] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:34:03.339] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:44:30.380] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:44:30.383] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:45:36.061] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:45:36.063] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:46:37.645] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:46:37.647] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:48:55.350] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:48:55.352] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:50:26.834] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:50:26.837] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:52:41.830] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:52:41.833] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:53:36.947] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:53:36.950] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:55:14.519] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:55:14.521] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T14:56:01.981] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T14:56:01.983] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:03:28.291] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:03:28.294] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:05:05.859] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:05:05.861] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:06:03.362] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:06:03.364] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:06:39.476] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:06:39.478] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:37:41.885] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:37:41.887] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:40:12.844] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:40:12.847] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:46:09.475] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:46:09.477] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:49:42.275] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:49:42.277] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:51:58.701] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:51:58.703] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:53:08.712] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:53:08.714] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T15:58:26.926] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T15:58:26.928] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:27:10.145] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:27:10.148] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:29:56.247] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:29:56.249] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:32:21.908] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:32:21.911] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:32:39.067] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:32:39.069] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:35:02.480] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:35:02.483] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:41:12.053] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:41:12.055] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:41:52.216] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:41:52.219] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:42:33.824] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:42:33.826] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:43:41.340] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:43:41.342] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:47:37.167] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:47:37.169] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:48:36.968] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:48:36.971] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T16:49:19.935] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T16:49:19.937] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T17:09:21.222] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T17:09:21.224] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T17:21:26.386] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T17:21:26.388] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T17:22:30.886] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T17:22:30.888] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T17:23:36.648] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T17:23:36.651] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-13T17:23:51.516] [ERROR] cheese - Cheese is too ripe!
+[2017-12-13T17:23:51.518] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T09:59:31.910] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T09:59:31.912] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:26:18.552] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:26:18.554] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:27:58.132] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:27:58.134] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:30:13.878] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:30:13.879] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:35:05.668] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:35:05.670] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:43:44.607] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:43:44.609] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:44:18.832] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:44:18.833] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:44:54.356] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:44:54.358] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:45:23.629] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:45:23.631] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:45:51.110] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:45:51.111] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:47:00.884] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:47:00.885] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:49:22.829] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:49:22.831] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:49:48.178] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:49:48.180] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:55:03.398] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:55:03.400] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:55:40.485] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:55:40.487] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:56:56.878] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:56:56.880] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T11:58:39.996] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T11:58:39.998] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:03:34.752] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:03:34.754] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:04:15.983] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:04:15.985] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:08:32.351] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:08:32.353] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:09:08.055] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:09:08.057] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:09:25.163] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:09:25.164] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:09:40.172] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:09:40.174] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:10:39.048] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:10:39.049] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:12:16.418] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:12:16.420] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:13:40.908] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:13:40.910] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T12:14:19.465] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T12:14:19.467] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T15:23:49.420] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T15:23:49.422] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T15:31:36.247] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T15:31:36.249] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T15:32:17.590] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T15:32:17.592] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T15:34:04.224] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T15:34:04.225] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T15:36:12.481] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T15:36:12.483] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T15:36:59.832] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T15:36:59.834] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T15:39:07.116] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T15:39:07.118] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T15:39:29.324] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T15:39:29.326] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-14T15:51:09.513] [ERROR] cheese - Cheese is too ripe!
+[2017-12-14T15:51:09.515] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:07:34.416] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:07:34.418] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:14:11.390] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:14:11.393] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:21:03.576] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:21:03.578] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:24:20.060] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:24:20.063] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:25:06.871] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:25:06.874] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:26:40.435] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:26:40.437] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:29:25.409] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:29:25.412] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:29:52.049] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:29:52.051] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:32:14.963] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:32:14.965] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:36:09.154] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:36:09.156] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:37:06.332] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:37:06.335] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T12:37:58.455] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T12:37:58.458] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T13:35:58.113] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T13:35:58.116] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T13:36:52.906] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T13:36:52.908] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T13:37:18.541] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T13:37:18.543] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T13:52:50.074] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T13:52:50.077] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T13:55:36.890] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T13:55:36.892] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T13:59:35.619] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T13:59:35.622] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:00:44.155] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:00:44.157] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:01:30.143] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:01:30.146] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:02:13.848] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:02:13.851] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:03:05.592] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:03:05.594] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:06:24.250] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:06:24.253] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:12:57.544] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:12:57.547] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:15:14.587] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:15:14.590] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:17:53.641] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:17:53.643] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:19:24.950] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:19:24.952] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:19:52.511] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:19:52.513] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:20:23.544] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:20:23.547] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:40:28.604] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:40:28.606] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T14:41:14.766] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T14:41:14.768] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T16:27:08.194] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T16:27:08.197] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T16:40:54.224] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T16:40:54.226] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T16:47:16.264] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T16:47:16.266] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T17:26:12.973] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T17:26:12.975] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T17:26:46.992] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T17:26:46.995] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2017-12-15T17:52:03.510] [ERROR] cheese - Cheese is too ripe!
+[2017-12-15T17:52:03.513] [FATAL] cheese - Cheese was breeding ground for listeria.
